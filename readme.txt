@@ -1,6 +1,6 @@
 === Catch IDs ===
 
-Contributors: CatchThemes
+Contributors: catchthemes
 Donate link: http://catchthemes.com/wp-plugins/catch-ids/
 Tags: catch-ids, simple, admin, wp-admin, show, ids, post, page, category, media, links, tag, user
 Requires at least: 3.0
