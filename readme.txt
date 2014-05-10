@@ -20,7 +20,7 @@ Check out our new modular plugin [Catch Web Tools](http://wordpress.org/plugins/
 
 == Installation ==
 
-Auto Installtion through WordPress admin panel
+Auto Installation through WordPress admin panel
 1. Go to "Plugins => Add New"
 2. In Search Box type in "Catch IDs" and Search Plugins
 3. You will get "Catch IDs" in search result
@@ -29,7 +29,7 @@ Auto Installtion through WordPress admin panel
 
 Manual Installation through FTP access
 1. Go to http://wordpress.org/plugins/catch-id/ and click on "Download"
-2. Then extact the zip file (catch-ids.zip) that you have downloaded 
+2. Then extract the zip file (catch-ids.zip) that you have downloaded 
 3. Using an FTP client to access your host web server. Go to /wp-content/plugins/ and upload the "catch-ids" folder 
 4. Then go to "Plugins" in your WordPress Admin Panel and click on "Activate"
 5. Installation Completed. Now you will get ID's column in your post, page, category, tag and media panel  
