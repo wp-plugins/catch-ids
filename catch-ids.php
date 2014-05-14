@@ -3,7 +3,7 @@
 Plugin Name: Catch IDs
 Plugin URI: http://catchthemes.com/wp-plugins/catch-ids/
 Description: Catch IDs is a simple and light weight plugin to show the Post ID, Page ID, Media ID, Links ID, Category ID, Tag ID and User ID in the Admin Section Table. This plugin was initially develop to support our themes features slider. Then we thought that this will be helpful to all the WordPress Admin Users. Just activate and catch IDs in your page, post, category, tag and media pages.
-Version: 1.2
+Version: 1.2.1
 License: GNU General Public License, version 3 (GPLv3)
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 Author: Catch Themes Team
@@ -112,8 +112,8 @@ function catchids_add() {
 
 	// For Tags Management
 	foreach ( get_taxonomies() as $taxonomy ) {
-		add_action( 'manage_edit-${taxonomy}_columns', 'catchids_column' );			
-		add_filter( 'manage_${taxonomy}_custom_column', 'catchids_return_value', 10, 3 );
+		add_action("manage_edit-${taxonomy}_columns", 'catchids_column');			
+		add_filter("manage_${taxonomy}_custom_column", 'catchids_return_value', 10, 3);
 	}
 
 	// For User Management
