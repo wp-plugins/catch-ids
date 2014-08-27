@@ -1,11 +1,11 @@
 === Catch IDs ===
 
-Contributors: catchthemes
+Contributors: catchthemes, sakinshrestha
 Donate link: http://catchthemes.com/wp-plugins/catch-ids/
 Tags: catch-ids, simple, admin, wp-admin, show, ids, post, page, category, media, links, tag, user
-Requires at least: 3.0
-Tested up to: 3.9.1
-Stable tag: 1.2.1
+Requires at least: 3.2
+Tested up to: 3.9.2
+Stable tag: 1.2.2
 License: GNU General Public License, version 3 (GPLv3)
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
