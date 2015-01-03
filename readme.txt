@@ -3,9 +3,9 @@
 Contributors: catchthemes, sakinshrestha
 Donate link: http://catchthemes.com/wp-plugins/catch-ids/
 Tags: catch-ids, simple, admin, wp-admin, show, ids, post, page, category, media, links, tag, user
-Requires at least: 3.2
-Tested up to: 3.9.2
-Stable tag: 1.2.2
+Requires at least: 3.5
+Tested up to: 4.1
+Stable tag: 1.2.3
 License: GNU General Public License, version 3 (GPLv3)
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -46,6 +46,13 @@ Manual Installation through FTP access
 
 
 == Changelog ==
+
+= 1.2.3
+* Compatibility check up to version 4.1
+* Added plugin icons
+
+= 1.2.2
+* Compatibility check up to version 3.9.2
 
 = 1.2.1
 * Fixed ID not showing in Taxonomies (Reported by Lesley)
