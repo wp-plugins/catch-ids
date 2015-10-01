@@ -4,8 +4,8 @@ Contributors: catchthemes, sakinshrestha, pratikshrestha
 Donate link: http://catchthemes.com/wp-plugins/catch-ids/
 Tags: catch-ids, simple, admin, wp-admin, show, ids, post, page, category, media, links, tag, user
 Requires at least: 3.5
-Tested up to: 4.3
-Stable tag: 1.2.4
+Tested up to: 4.3.1
+Stable tag: 1.2.5
 License: GNU General Public License, version 3 (GPLv3)
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -46,6 +46,9 @@ Manual Installation through FTP access
 
 
 == Changelog ==
+
+= 1.2.5
+* Translation ready update
 
 = 1.2.4
 * Compatibility check up to version 4.3
